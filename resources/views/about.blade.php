@@ -11,6 +11,7 @@
             </div><!-- /.row -->
         </div><!-- /.container-fluid -->
     </div>
+    
     <!-- /.content-header -->
 
     <!-- Main content -->
@@ -32,5 +33,12 @@
             <!-- /.row -->
         </div><!-- /.container-fluid -->
     </div>
+
+    
+
+    
+
+    
+
     <!-- /.content -->
 @endsection
